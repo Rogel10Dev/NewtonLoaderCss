@@ -23,4 +23,4 @@
 ### 4.1 git brach (Lista todas las ramas)
 ### 4.2 git checkout "nombre_rama" (Sirve para cambiar de rama)
 
-### 5.- git merge
+### 5.- git merge "nombre_rama" (1.- nos situamos en la rama que queremos dejar los cambios y se lege el nombre de la rama con la que queremos unirla)
