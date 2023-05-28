@@ -18,4 +18,4 @@
 
 ## 4.- git branch "nombre_rama" (crea una rama con todos los archivos de la rama master)
 ## 4.1 git brach (Lista todas las ramas)
-## 4.2 git checkout -b "nombre_rama" (Sirve para cambiar de rama)
+## 4.2 git checkout "nombre_rama" (Sirve para cambiar de rama)
