@@ -15,3 +15,5 @@
 ## 2.3 git add . (agrega al staging area todos los archivos, carpetas y subcarpetas)
 
 ## 3.- git commit -m "Mensaje" (agrega todo que esta en Staging area a Repository)
+
+## 4.- git branch "nombre_rama" (crea una rama con todos los archivos de la rama master)
