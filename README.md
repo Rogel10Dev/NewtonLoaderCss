@@ -24,3 +24,7 @@
 ### 4.2 git checkout "nombre_rama" (Sirve para cambiar de rama)
 
 ### 5.- git merge "nombre_rama" (1.- nos situamos en la rama que queremos dejar los cambios y se lege el nombre de la rama con la que queremos unirla)
+
+### 6.- git remote add origin "https://github.com/"
+
+### 7.- git push origin main (manda al repisitorio remoto lo que se tiene en la rama master local)
