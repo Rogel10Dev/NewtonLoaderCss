@@ -8,3 +8,7 @@ body {
     min-height: 100vh;
     width: auto;
 }
+
+a {
+    color : #2C3E50;
+} 
