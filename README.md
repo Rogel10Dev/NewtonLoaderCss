@@ -26,5 +26,7 @@
 ### 5.- git merge "nombre_rama" (1.- nos situamos en la rama que queremos dejar los cambios y se lege el nombre de la rama con la que queremos unirla)
 
 ### 6.- git remote add origin "https://github.com/"
+### 6.1 git remote rm origin (Sirve para eliminar el remoto)
+### 6.2 git remote -v (muestra la url del rep al que apunta)
 
 ### 7.- git push origin main (manda al repisitorio remoto lo que se tiene en la rama master local)
