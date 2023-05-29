@@ -20,13 +20,21 @@
 
 ## GIT BRANCH
 ### 4.- git branch "nombre_rama" (crea una rama con todos los archivos de la rama master)
+
 ### 4.1 git brach (Lista todas las ramas)
 ### 4.2 git checkout "nombre_rama" (Sirve para cambiar de rama)
+### 4.3 git checkout -b "nombre_rama" (te posiciona en a rama creada)
 
 ### 5.- git merge "nombre_rama" (1.- nos situamos en la rama que queremos dejar los cambios y se lege el nombre de la rama con la que queremos unirla)
 
+## GIT REMOTE
 ### 6.- git remote add origin "https://github.com/"
-### 6.1 git remote rm origin (Sirve para eliminar el remoto)
-### 6.2 git remote -v (muestra la url del rep al que apunta)
+### 6.1.- git remote rm origin (Sirve para eliminar el remoto)
+### 6.2.- git remote -v (muestra la url del rep al que apunta)
 
+## GIT PUSH
 ### 7.- git push origin main (manda al repisitorio remoto lo que se tiene en la rama master local)
+### 7.1 .- git push --all (sincroniza las ramas locales con el repo remoto)
+
+## GIT CLONE
+## 8.- git clone "url" (clona en tu maquina el repo remoto)
